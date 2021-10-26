@@ -2,6 +2,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gsw4869&theme=radical&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsw4869&theme=radical&layout=compact&hide=CMAKE)  
+![GSW4869's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gsw4869&layout=compact&theme=radical)
 
 
 <!--
