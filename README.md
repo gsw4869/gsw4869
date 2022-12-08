@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gsw4869&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsw4869&layout=compact&hide=CMAKE)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsw4869&layout=compact)  
 <!-- ![GSW4869's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gsw4869&layout=compact) -->
 
 
